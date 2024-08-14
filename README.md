@@ -6,7 +6,7 @@
 
 <img src="foto.png" alt="Foto de Maximiliano" width="200" />
 
-## Videojuegos Favoritos (no están en orden)
+## Videojuegos Favoritos:
 
 1. **Batman: Arkham Knight** (toda la saga)
 2. **Dark Souls III** (todos los soulslike)
